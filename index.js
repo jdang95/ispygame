@@ -13,5 +13,3 @@ function handleOnClick(event) {
 	console.log(event);
 }
 
-//Assume item came from HTML by finding the element on the list
-item.style.textDecoration="line-through";
