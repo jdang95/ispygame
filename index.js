@@ -9,6 +9,9 @@ area2.onclick = handleOnClick;
 
 function handleOnClick(event) {
 	event.preventDefault();
-	console.log("I was clicked");
+	console.log("Good Job");
 	console.log(event);
 }
+
+//Assume item came from HTML by finding the element on the list
+item.style.textDecoration="line-through";
