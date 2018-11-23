@@ -3,8 +3,8 @@ body{
   text-align:center;
   background-color: pink;
 }
-img{
-  font-size: 3000px;
+img {
+    width: 400%;
+    height: auto;
 }
-
 
